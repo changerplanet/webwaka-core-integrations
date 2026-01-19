@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-integrations",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Integrations Core",
+  "description": "Integrations & Analytics - Third-party integration services",
+  "repository": "https://github.com/changerplanet/webwaka-core-integrations",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
